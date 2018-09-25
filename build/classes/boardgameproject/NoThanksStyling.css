@@ -1,0 +1,10 @@
+/* 
+    Created on : Mar 17, 2018, 7:30:17 PM
+    Author     : Andrew
+*/
+#pane{
+    -fx-background-image: url("file:C:\\Users\\Andrew\\Documents\\NetBeansProjects\\BoardGameProject\\src\\boardgameproject\\NoThanks_v2\\table_background.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 100% 100%;
+    -fx-background-position: 0 0;
+}
